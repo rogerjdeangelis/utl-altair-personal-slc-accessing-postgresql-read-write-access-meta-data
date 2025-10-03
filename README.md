@@ -36,7 +36,7 @@ Altair personal slc accessing- postgresql read write access meta data
       server="localhost"
       port=5432
       user="postgres"
-      password="Sas2@rlx"
+      password="xxxxxxx"
       preserve_tab_names=YES;
 
     proc datasets lib=psdb;
