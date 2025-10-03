@@ -34,7 +34,7 @@ libname psdb postgres
   server="localhost"
   port=5432
   user="postgres"
-  password="Sas2@rlx"
+  password="xxxxxx"
   preserve_tab_names=YES;
 
 proc datasets lib=psdb;
